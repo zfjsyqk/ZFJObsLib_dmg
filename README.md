@@ -4,7 +4,7 @@
 ## 如果提示【无法打开“ZFJObsLib”，因为无法确认开发者的身份】，请看百度教程https://jingyan.baidu.com/article/4dc40848e0ef9c89d946f1a1.html
 
 ### 软件作者：ZFJ_张福杰
-### 联系方式：【QQ】2723834718 【EMAIL】zfjobslib@vip.qq.com
+### 联系方式：【购买咨询QQ】58771027 【 售后服务QQ】2723834718 【EMAIL】zfjobslib@vip.qq.com
 ### 官网地址：http://zfjobslib.top
 ### 博客地址：http://zfj1128.blog.csdn.net
 ### 使用问答：http://zfjobslib.top/qahelp.html
@@ -12,6 +12,15 @@
 
 
 #### ------------------------------更新说明------------------------------
+### V1.7.1（2021年02月27日）更新内容：
+
+#### 1、优化代码混淆；
+
+#### 2、优化适配cocos；
+
+
+
+
 ### V1.7.1（2021年01月23日）更新内容：
 
 #### 1、优化字符串加密规则；
